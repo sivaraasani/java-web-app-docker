@@ -101,12 +101,12 @@
 	<!-- <distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
+	      <name>Bhargaviraasani</name>
 	      <url>http://3.111.170.99:8081/repository/mavenweb-release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <name>Bhargaviraasani </name>
 	      <url>http://3.111.170.99:8081/repository/mavenweb-snapchart/</url>
 	    </snapshotRepository>
 	</distributionManagement> -->
