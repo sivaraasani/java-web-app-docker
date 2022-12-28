@@ -102,12 +102,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Bhargaviraasani</name>
-	      <url>http://3.111.170.99:8081/repository/mavenweb-release/</url>
+	      <url>http://3.111.170.99:8081/repository/java-release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Bhargaviraasani </name>
-	      <url>http://3.111.170.99:8081/repository/mavenweb-snapchart/</url>
+	      <url>http://3.111.170.99:8081/repository/java-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement> -->
 	
